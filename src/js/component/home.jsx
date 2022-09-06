@@ -15,7 +15,7 @@ const Home = () => {
 				<Jumbotron />
 			</div>
 			<div className="row mx-5 mb-4 d-flex justify-content-between">
-				<div className="col-md-3">
+				<div className="col-sm-12 col-md-4 col-lg-3">
 				<Card 
 				title="Ejemplo 1" 
 				imageUrl="https://picsum.photos/id/237/600/400" 
